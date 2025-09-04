@@ -6,7 +6,6 @@ In this task, I worked on building a machine learning model to predict diabetes 
 
 **Work performed:**
 
-- Created the main project folder `0xAI-MachineLearning` and the subfolder `Task1_Diabetes_Classify`.
 - Focused on implementing a **Diabetes Predicition** model:
   - Conducted **Exploratory Data Analysis (EDA)** using Pandas and Matplotlib.
   - Performed **data preprocessing**, including handling missing values, encoding categorical variables, and scaling numerical features.
@@ -23,7 +22,6 @@ The research component focused on understanding core machine learning concepts a
 
 **Work performed:**
 
-- Created folder structure under `Research_part` with subfolders `math`, `test`, and `algorithm`.
 - Prepared 2-page PDF documents for each topic:
   - **Gradient Descent:** Concept and applications in machine learning.
   - **ROC Curve:** Interpretation and usage in model evaluation.
